@@ -26,8 +26,11 @@ CI/CD testing ground for automation pipelines
 Quick Start
 bash
 git clone https://github.com/trafficit/wizard-devops-site.git
+
 cd wizard-devops-site
+
 docker compose up -d
+
 Live Demo
 https://wizard.dedyn.io
 
