@@ -35,6 +35,5 @@ Live Demo
 https://wizard.dedyn.io
 
 Contact
-GitHub: trafficit
 
 Telegram: @traffic3000
