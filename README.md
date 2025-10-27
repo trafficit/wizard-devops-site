@@ -40,19 +40,19 @@ Telegram: @traffic3000
 
 Structure 
 
-wizard-devops-site/
-├── index.html
-├── css/
-│   └── style.css
-├── projects/
-│   └── index.html
-├── contact/
-│   └── index.html
-├── Dockerfile
-├── docker-compose.yml
-├── README.md
-└── .github/
-    └── workflows/
-        └── deploy.yml
+    wizard-devops-site/
+    ├── index.html
+    ├── css/
+    │   └── style.css
+    ├── projects/
+    │   └── index.html
+    ├── contact/
+    │   └── index.html
+    ├── Dockerfile
+    ├── docker-compose.yml
+    ├── README.md
+    └── .github/
+        └── workflows/
+            └── deploy.yml
 
 
